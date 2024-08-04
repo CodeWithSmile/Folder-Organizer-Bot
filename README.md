@@ -1,0 +1,1 @@
+In this Project User Will Select Input Folder Which Has messy data then bot create folders to arrange data according to its extension which increase readability of the folder and ask for output location to move our mess free data.
